@@ -2,6 +2,11 @@
 <SecuritySettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <networkAccess>
         <ipRanges>
+            <description>everis</description>
+            <end>80.28.7.20</end>
+            <start>80.28.7.20</start>
+        </ipRanges>
+        <ipRanges>
             <description>Raul IP</description>
             <end>37.133.221.62</end>
             <start>37.133.221.62</start>
